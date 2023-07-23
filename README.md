@@ -1,4 +1,4 @@
-# Slack-app-clone-back
+# Slack-app-clone-front
 Step 1 ```cd``` into this directory <br />
 Step 2 ```npm i``` <br />
 Step 3 ``` npm start```
